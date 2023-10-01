@@ -48,11 +48,4 @@ Move to the root of the client folder and then fire below command.
     
 ## Authors
 
-- [@Manav](https://github.com/manavbhikadiya)
-
-  
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-  
+- [Manav Bhikadiya](https://github.com/manavbhikadiya)
